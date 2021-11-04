@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "resources",
+      "type": "com.assignment1.config.ResourcesBean",
+      "sourceType": "com.assignment1.config.ResourcesBean"
+    }
+  ],
+  "properties": [
+    {
+      "name": "resources.db",
+      "type": "java.lang.String",
+      "sourceType": "com.assignment1.config.ResourcesBean"
+    },
+    {
+      "name": "resources.logs",
+      "type": "java.lang.String",
+      "sourceType": "com.assignment1.config.ResourcesBean"
+    },
+    {
+      "name": "resources.secure",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.assignment1.config.ResourcesBean"
+    }
+  ],
+  "hints": []
+}
